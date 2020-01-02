@@ -1,0 +1,35 @@
+{
+  "name": "smartpipeserverwithccs",
+  "version": "1.0.0",
+  "description": "a server used for connecting with ccs and smart pipe web application",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "check-versions": "^1.0.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mqtt": "^3.0.0",
+    "net": "^1.0.2",
+    "socket.io": "^2.3.0",
+    "uws": "^10.148.1",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node -v",
+    "server": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TS-Tech-CC/SmartPipeServerWithCCS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TS-Tech-CC/SmartPipeServerWithCCS/issues"
+  },
+  "homepage": "https://github.com/TS-Tech-CC/SmartPipeServerWithCCS#readme"
+}
