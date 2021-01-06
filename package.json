@@ -4,7 +4,7 @@
   "description": "a server used for connecting with ccs and smart pipe web application",
   "main": "app.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "check-versions": "^1.0.0",
     "express": "^4.17.1",
     "http": "0.0.0",
