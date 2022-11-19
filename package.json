@@ -13,7 +13,7 @@
     "socket.io": "^2.3.0",
     "uws": "^10.148.1",
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.1"
   },
   "scripts": {
